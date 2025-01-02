@@ -33,7 +33,7 @@ $ python main.py
 
 Введите текст для QR-кода, который вы увидите после сканирования:
 
-> С Новым годом!
+> С днём рождения!
 
 Выберите форму QR-кода (square, circle, rounded_square):
 
@@ -77,7 +77,8 @@ QR-код успешно сгенерирован.
 
 QR-код с цветом и формой успешно сохранен как 'final_qrcode.png'.
 
-![image](https://github.com/user-attachments/assets/fd31a077-4a70-42a0-a4b4-69b1a89a25d2)
+![image](https://github.com/user-attachments/assets/038686d3-a13c-403f-ae35-4905eba2f974)
+
 
 
 ---
