@@ -32,30 +32,51 @@
 $ python main.py
 
 Введите текст для QR-кода, который вы увидите после сканирования:
+
 > С Новым годом!
 
 Выберите форму QR-кода (square, circle, rounded_square):
+
 > circ
+
 Ошибка: форма не распознана. Пожалуйста, выберите из доступных.
+
 Выберите форму QR-кода (square, circle, rounded_square):
+
 > circle
 
 Доступные цвета:  red, blue, green, yellow, orange, purple, cyan, magenta, pink, teal, white, black
+
 Введите цвет заливки (пикселей) для QR-кода: 
+
 > purp
+
 Ошибка: Недопустимый цвет: purp. Доступные цвета: red, blue, green, yellow, orange, purple, cyan, magenta, pink, teal, white, black
+
 Введите цвет заливки (пикселей) для QR-кода:
+
 > purple
+
 Доступные цвета:  red, blue, green, yellow, orange, purple, cyan, magenta, pink, teal, white, black
+
 Введите цвет фона для QR-кода:
+
 > pink
 
 QR-код успешно сгенерирован.
-Введите URL для изображения фона: /
-Недопустимый URL. Он должен начинаться с http:// или https://.
+
 Введите URL для изображения фона: 
+
+> /
+
+Недопустимый URL. Он должен начинаться с http:// или https://.
+
+Введите URL для изображения фона: 
+
 > https://i.pinimg.com/736x/61/5d/5d/615d5d479f4a3a997de658cd04e5029d.jpg
+
 QR-код с цветом и формой успешно сохранен как 'final_qrcode.png'.
+
 ![image](https://github.com/user-attachments/assets/fd31a077-4a70-42a0-a4b4-69b1a89a25d2)
 
 
